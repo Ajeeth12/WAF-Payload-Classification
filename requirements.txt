@@ -1,0 +1,20 @@
+sagemaker
+scikit-learn
+pandas
+numpy
+ipykernel
+tensorflow
+matplotlib
+seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-pyYAML
+scipy
+Flask
+flask-cors
+dvc
+notebook
+-e .

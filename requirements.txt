@@ -16,6 +16,7 @@ scipy
 Flask
 flask-cors
 dvc
-configbox
+python-box
+deal
 notebook
 -e .

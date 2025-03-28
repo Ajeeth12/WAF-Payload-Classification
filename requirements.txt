@@ -6,17 +6,15 @@ ipykernel
 tensorflow
 matplotlib
 seaborn
-python-box
+python-box==6.0.2
 pyYAML
 tqdm
-ensure
+ensure==1.0.2
 joblib
 types-pyYAML
 scipy
 Flask
 flask-cors
 dvc
-python-box
-deal
 notebook
 -e .
